@@ -3,6 +3,8 @@
 FullTG is an all in one fully automated tool for Telegram. It is written in Python and very noob-friendly. No coding skills required! Simple to install and easy to use. Updates, new features and support for lifetime!
 ### 40 MAIN FUNCTIONS!
 
+## BUY HERE: https://bitly.cx/ryZEC
+
 VIDEO: https://youtu.be/DpBAr3v3FjA
 
 For any questions, feel free to ask us on Telegram: https://t.me/FullTGToolsSupport
