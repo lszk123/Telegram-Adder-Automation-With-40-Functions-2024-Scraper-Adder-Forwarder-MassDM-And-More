@@ -7,7 +7,7 @@ FullTG is an all in one fully automated tool for Telegram. It is written in Pyth
 
 VIDEO: https://youtu.be/DpBAr3v3FjA
 
-For any questions, feel free to ask us on Telegram: https://t.me/FullTGToolsSupport
+For any questions, feel free to ask us on Telegram: https://t.me/FullTGToolSupport
 
 <img src='FullTGMENU1153.png' width='430'>
 
@@ -57,7 +57,7 @@ This tool has a total of 40 features and tons of dynamic sub-features! New ones 
 
 VIDEO: https://youtu.be/DpBAr3v3FjA
 
-For any questions, feel free to ask us on Telegram: https://t.me/FullTGToolsSupport
+For any questions, feel free to ask us on Telegram: https://t.me/FullTGToolSupport
 
 ### Whats so special about this?
 1. This tool is the first tool, which can scrape more than 10k members at once!
