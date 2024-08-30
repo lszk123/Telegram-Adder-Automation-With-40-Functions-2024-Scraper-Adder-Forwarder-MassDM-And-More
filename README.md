@@ -4,7 +4,7 @@ FullTG is an all in one fully automated tool for Telegram. It is written in Pyth
 ### 40 MAIN FUNCTIONS!
 
 ## BUY HERE: https://bitly.cx/ryZEC
-
+### 💻 For more information: www.full-sc.com
 VIDEO: https://youtu.be/DpBAr3v3FjA
 
 For any questions, feel free to ask us on Telegram: https://t.me/FullTGToolSupport
@@ -54,7 +54,7 @@ This tool has a total of 40 features and tons of dynamic sub-features! New ones 
 >All tasks above can be done by selected accounts or all accounts!
 
 ## BUY HERE: https://bitly.cx/ryZEC
-
+### 💻 For more information: www.full-sc.com
 VIDEO: https://youtu.be/DpBAr3v3FjA
 
 For any questions, feel free to ask us on Telegram: https://t.me/FullTGToolSupport
